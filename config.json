@@ -1,0 +1,9 @@
+{
+    "input": "roast salmon mind enlist extend narrow snake hollow crop follow gauge blush",
+    "word_count": 12,
+    "passphrase": "",
+    "wallet_types": "BIP44",
+    "gap_limit": 5,
+    "write": true,
+    "read": false
+}
