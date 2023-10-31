@@ -25,6 +25,39 @@ mnemonic: also play glass milk marriage wine crucial blast whale year crime trap
 		roast salmon mind enlist extend narrow snake hollow crop follow gauge blush
 		rough blouse unlock shock suffer hammer welcome knee ski picture fantasy yellow
 
+	XOR_BC:
+
+		XBC1:
+            0.00043481
+            0.00745660
+            0.00756767
+            0.01018130
+            0.00518503
+            0.00520600
+            0.00473618
+            0.00696655
+            0.00971467
+            0.00738562
+            0.00173523
+            0.01030453
+
+		XBC2:
+            0.00106659
+            0.00678086
+            0.00120118
+            0.00889055
+            0.00737278
+            0.00190486
+            0.00962551
+            0.00803059
+            0.00255909
+            0.00645646
+            0.00055179
+            0.00407983
+
+		password1: WowthispasswordisCoolisitJustForaDemonstraction?!123345666666888911292
+		password2: SothisisThesecondPasswordAnditiSforEncryptingXORmnemonics1!2123?23111
+
 	SHAMIR:
 		license acid academic acid deal burden manager hawk easel treat regular believe energy grownup device tracks kernel false forget leaves
 		license acid academic agency biology evoke system injury senior award recover royal lair theory legend lawsuit spelling violence peaceful revenue
