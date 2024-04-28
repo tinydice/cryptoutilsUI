@@ -2,8 +2,6 @@ import os.path
 from typing import Dict, Iterable, List, Sequence, Tuple
 
 from .constants import RADIX
-from .utils import MnemonicError
-
 
 def _load_wordlist() -> Tuple[List[str], Dict[str, int]]:
     with open(os.path.join(os.path.dirname(__file__), "wordlist.txt"), "r") as f:

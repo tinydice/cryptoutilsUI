@@ -1,4 +1,4 @@
-from .utils import bits_to_words
+from src.utils import *
 
 RADIX_BITS = 10
 """The length of the radix in bits."""
